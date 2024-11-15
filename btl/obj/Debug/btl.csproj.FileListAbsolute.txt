@@ -1,0 +1,12 @@
+D:\btl_ttlt.net\btl\bin\Debug\btl.exe.config
+D:\btl_ttlt.net\btl\bin\Debug\btl.exe
+D:\btl_ttlt.net\btl\bin\Debug\btl.pdb
+D:\btl_ttlt.net\btl\obj\Debug\btl.csproj.AssemblyReference.cache
+D:\btl_ttlt.net\btl\obj\Debug\btl.Properties.Resources.resources
+D:\btl_ttlt.net\btl\obj\Debug\btl.csproj.GenerateResource.cache
+D:\btl_ttlt.net\btl\obj\Debug\btl.csproj.CoreCompileInputs.cache
+D:\btl_ttlt.net\btl\obj\Debug\btl.exe
+D:\btl_ttlt.net\btl\obj\Debug\btl.pdb
+D:\btl_ttlt.net\btl\obj\Debug\btl.FrmTimkiemNhacc.resources
+D:\btl_ttlt.net\btl\obj\Debug\btl.FrmKho.resources
+D:\btl_ttlt.net\btl\obj\Debug\btl.NhaCungCap.resources

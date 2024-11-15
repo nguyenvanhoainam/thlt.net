@@ -47,6 +47,38 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DataAccessLayer.cs" />
+    <Compile Include="FormMonAn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMonAn.Designer.cs">
+      <DependentUpon>FormMonAn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormNhanVien.Designer.cs">
+      <DependentUpon>FormNhanVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmKho.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmKho.Designer.cs">
+      <DependentUpon>FrmKho.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTimkiemNhacc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTimkiemNhacc.Designer.cs">
+      <DependentUpon>FrmTimkiemNhacc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HDban.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HDban.Designer.cs">
+      <DependentUpon>HDban.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HDBH.cs" />
     <Compile Include="HDnhap.cs" />
     <Compile Include="hoadonnhap.cs">
       <SubType>Form</SubType>
@@ -55,8 +87,34 @@
       <DependentUpon>hoadonnhap.cs</DependentUpon>
     </Compile>
     <Compile Include="Ketnoi.cs" />
+    <Compile Include="Kho.cs" />
+    <Compile Include="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nhacc.cs" />
+    <Compile Include="NhaCungCap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NhaCungCap.Designer.cs">
+      <DependentUpon>NhaCungCap.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SearchMonAn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchMonAn.Designer.cs">
+      <DependentUpon>SearchMonAn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SearchNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchNhanVien.Designer.cs">
+      <DependentUpon>SearchNhanVien.cs</DependentUpon>
+    </Compile>
     <Compile Include="Thongke.cs" />
     <Compile Include="Thongkedoanhthu.cs">
       <SubType>Form</SubType>
@@ -64,14 +122,41 @@
     <Compile Include="Thongkedoanhthu.Designer.cs">
       <DependentUpon>Thongkedoanhthu.cs</DependentUpon>
     </Compile>
+    <Compile Include="timhdban.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="timhdban.Designer.cs">
+      <DependentUpon>timhdban.cs</DependentUpon>
+    </Compile>
     <Compile Include="timkiemhdnhap.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="timkiemhdnhap.Designer.cs">
       <DependentUpon>timkiemhdnhap.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="FormMonAn.resx">
+      <DependentUpon>FormMonAn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormNhanVien.resx">
+      <DependentUpon>FormNhanVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmKho.resx">
+      <DependentUpon>FrmKho.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTimkiemNhacc.resx">
+      <DependentUpon>FrmTimkiemNhacc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HDban.resx">
+      <DependentUpon>HDban.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="hoadonnhap.resx">
       <DependentUpon>hoadonnhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NhaCungCap.resx">
+      <DependentUpon>NhaCungCap.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -83,8 +168,17 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="SearchMonAn.resx">
+      <DependentUpon>SearchMonAn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchNhanVien.resx">
+      <DependentUpon>SearchNhanVien.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Thongkedoanhthu.resx">
       <DependentUpon>Thongkedoanhthu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="timhdban.resx">
+      <DependentUpon>timhdban.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="timkiemhdnhap.resx">
       <DependentUpon>timkiemhdnhap.cs</DependentUpon>

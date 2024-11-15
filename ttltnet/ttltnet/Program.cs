@@ -16,7 +16,7 @@ namespace ttltnet
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new hoadonnhap());
+            Application.Run(new Menu());
         }
     }
 }

@@ -1,0 +1,14 @@
+E:\TTLTNET\FastFoodShop0\FastFoodShop0\bin\Debug\FastFoodShop0.exe.config
+E:\TTLTNET\FastFoodShop0\FastFoodShop0\bin\Debug\FastFoodShop0.exe
+E:\TTLTNET\FastFoodShop0\FastFoodShop0\bin\Debug\FastFoodShop0.pdb
+E:\TTLTNET\FastFoodShop0\FastFoodShop0\obj\Debug\FastFoodShop0.csproj.AssemblyReference.cache
+E:\TTLTNET\FastFoodShop0\FastFoodShop0\obj\Debug\FastFoodShop0.FormMonAn.resources
+E:\TTLTNET\FastFoodShop0\FastFoodShop0\obj\Debug\FastFoodShop0.FormNhanVien.resources
+E:\TTLTNET\FastFoodShop0\FastFoodShop0\obj\Debug\FastFoodShop0.Menu.resources
+E:\TTLTNET\FastFoodShop0\FastFoodShop0\obj\Debug\FastFoodShop0.Properties.Resources.resources
+E:\TTLTNET\FastFoodShop0\FastFoodShop0\obj\Debug\FastFoodShop0.SearchMonAn.resources
+E:\TTLTNET\FastFoodShop0\FastFoodShop0\obj\Debug\FastFoodShop0.SearchNhanVien.resources
+E:\TTLTNET\FastFoodShop0\FastFoodShop0\obj\Debug\FastFoodShop0.csproj.GenerateResource.cache
+E:\TTLTNET\FastFoodShop0\FastFoodShop0\obj\Debug\FastFoodShop0.csproj.CoreCompileInputs.cache
+E:\TTLTNET\FastFoodShop0\FastFoodShop0\obj\Debug\FastFoodShop0.exe
+E:\TTLTNET\FastFoodShop0\FastFoodShop0\obj\Debug\FastFoodShop0.pdb
